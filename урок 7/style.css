@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 1920px;
+    height: 5155px;
+    background-color: black;
+}
+    .menu{
+        width: 1298px;
+        height: 60px;
+        margin-top: 30px;
+       margin-left: auto;
+       margin-right: auto;
+       display: flex;
+    }
+    .menu img{
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        left: 312px;
+        top: 30px;
+    }
+    .menu ul{
+        margin-left: 274px;
+        display: flex;
+        list-style: none;
+
+      }
+    li a{
+        margin-left: 50px;
+        color: aliceblue;
+        text-decoration: none;   
+        font-size: 14px;
+    }
+    menu button{
+        width: 155px;
+        height: 36px;
+        margin-left: 50px;
+        background-color: blue;
+        padding: 9px 15px 9px 15px;
+        font-size: 13px;
+        color: aliceblue;
+    }

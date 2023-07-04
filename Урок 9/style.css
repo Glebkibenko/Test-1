@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 1120px;
+    height: 65.33px;
+    display: flex;
+}
+header button{
+
+    justify-content: flex-end;
+    margin:15px 5px 15px 5px;
+    color: white;
+    background-color: rgb(5, 75, 54);
+    border-radius: 10px;
+}
